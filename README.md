@@ -1,5 +1,5 @@
-# MLP-Makemore-Model
-An implementation of the classic MLP from the paper by Bengio et al. and the makemore idea of Andrej Karpathy.
+# Numpy-Makemore-Model
+An implementation of the classic MLP from the paper by Bengio et al. and the makemore idea of Andrej Karpathy written on pure numpy.
 
 # References
 
